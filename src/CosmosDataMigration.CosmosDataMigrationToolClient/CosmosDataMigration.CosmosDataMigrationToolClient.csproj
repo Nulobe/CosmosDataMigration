@@ -45,6 +45,7 @@
     <Compile Include="CosmosSink.cs" />
     <Compile Include="CosmosSinkOptions.cs" />
     <Compile Include="DataSinkArgumentCollection.cs" />
+    <Compile Include="DataSinkRole.cs" />
     <Compile Include="IDataSink.cs" />
     <Compile Include="JsonFileDataSink.cs" />
     <Compile Include="JsonFileDataSinkOptions.cs" />
